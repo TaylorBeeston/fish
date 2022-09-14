@@ -2,7 +2,15 @@
 # VERSION: 3.0
 SETUVAR --export ANDROID_HOME:/home/taylor/Android/Sdk
 SETUVAR --export ANDROID_SDK_ROOT:/home/taylor/Android/Sdk
+SETUVAR AWS_ACCESS_KEY_ID:AKIATAFSTVSD3GK2A6XT
+SETUVAR AWS_SECRET_ACCESS_KEY:nEI9/iQ9l0FONCg\x2bK7LDipFNUGikJ75M1d0O0DFx
 SETUVAR --export BROWSER:/usr/bin/google\x2dchrome\x2dstable
+SETUVAR --export EXA_LA_OPTIONS:\x2d\x2dbinary\x1e\x2d\x2dlinks\x1e\x2d\x2dinode\x1e\x2d\x2dblocks
+SETUVAR --export EXA_LD_OPTIONS:\x2d\x2dlist\x2ddirs
+SETUVAR --export EXA_LE_OPTIONS:\x2d\x2dextended
+SETUVAR --export EXA_LG_OPTIONS:\x2d\x2dgit
+SETUVAR --export EXA_LT_OPTIONS:\x2d\x2dtree\x1e\x2d\x2dlevel
+SETUVAR --export EXA_STANDARD_OPTIONS:\x2d\x2dlong\x1e\x2d\x2dall\x1e\x2d\x2dgroup\x1e\x2d\x2dheader
 SETUVAR FZF_LEGACY_KEYBINDINGS:0
 SETUVAR --export GPG_TTY:\x28tty\x29
 SETUVAR --export JAVA_HOME:/usr/lib/jvm/default
@@ -14,7 +22,12 @@ SETUVAR Z_CMD:z
 SETUVAR Z_DATA:/home/taylor/\x2elocal/share/z/data
 SETUVAR Z_DATA_DIR:/home/taylor/\x2elocal/share/z
 SETUVAR Z_EXCLUDE:\x5e/home/taylor\x24
-SETUVAR __fish_initialized:3100
+SETUVAR __fish_initialized:3400
+SETUVAR _fisher_edc_2F_bass_files:/home/taylor/\x2econfig/fish/functions/__bass\x2epy\x1e/home/taylor/\x2econfig/fish/functions/bass\x2efish
+SETUVAR _fisher_gazorby_2F_fish_2D_exa_files:/home/taylor/\x2econfig/fish/functions/exa_git\x2efish\x1e/home/taylor/\x2econfig/fish/conf\x2ed/fish\x2dexa\x2efish
+SETUVAR _fisher_jethrokuan_2F_z_files:/home/taylor/\x2econfig/fish/functions/__z\x2efish\x1e/home/taylor/\x2econfig/fish/functions/__z_add\x2efish\x1e/home/taylor/\x2econfig/fish/functions/__z_clean\x2efish\x1e/home/taylor/\x2econfig/fish/functions/__z_complete\x2efish\x1e/home/taylor/\x2econfig/fish/conf\x2ed/z\x2efish
+SETUVAR _fisher_jorgebucaran_2F_fisher_files:/home/taylor/\x2econfig/fish/functions/fisher\x2efish\x1e/home/taylor/\x2econfig/fish/completions/fisher\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher\x1eedc/bass\x1ejethrokuan/z\x1egazorby/fish\x2dexa
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:005fd7
@@ -44,4 +57,5 @@ SETUVAR fish_pager_color_completion:\x1d
 SETUVAR fish_pager_color_description:B3A06D\x1eyellow
 SETUVAR fish_pager_color_prefix:white\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
-SETUVAR --export fish_user_paths:/home/taylor/\x2envm/versions/node/v14\x2e8\x2e0/bin/\x1e/home/taylor/Desktop/\x1e/home/taylor/Android/Sdk/tools\x1e/home/taylor/Android/Sdk/platform\x2dtools\x1e/home/taylor/Android/Sdk/platform\x2dtools\x1e/home/taylor/Android/Sdk/tools\x1e/home/taylor/\x2erbenv/bin
+SETUVAR fish_pager_color_selected_background:\x2dr
+SETUVAR --export fish_user_paths:/home/taylor/\x2elocal/share/neovim/bin\x1e/home/taylor/\x2envm/versions/node/v12\x2e21\x2e0/bin/\x1e/home/taylor/\x2eserverless/bin
